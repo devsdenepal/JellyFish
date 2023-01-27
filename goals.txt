@@ -1,0 +1,6 @@
+Goals{
+'1st':'To create a recording and creating record file code',
+'2nd':'To create an upload system using php',
+'3rd' : 'To create a database of files',
+'4th':'To create an ajax uploading and fetcing system'
+}
